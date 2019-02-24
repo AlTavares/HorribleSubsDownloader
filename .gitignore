@@ -4,4 +4,4 @@
 /*.xcodeproj
 *.log
 Config/config.json
-Config/Shows/*
+Config/Shows/*.json
