@@ -1,0 +1,28 @@
+{
+    "apiHost": "https://horriblesubs.info",
+    "downloadsDirectory": "~/Downloads",
+    "nimrodKey": "your-key",
+    "qbittorrent": {
+        "api": "http://localhost:8080/api/v2"
+    },
+    "watchList": [
+        {
+            "name": "JoJo’s Bizarre Adventure – Golden Wind",
+            "slug": "jojos-bizarre-adventure-golden-wind",
+            "minimumEpisode": 21,
+            "active": true
+        },
+        {
+            "name": "The Promised Neverland",
+            "slug": "yakusoku-no-neverland",
+            "minimumEpisode": 7,
+            "active": true
+        },
+        {
+            "name": "Mob Psycho 100 S2",
+            "slug": "mob-psycho-100-s2",
+            "minimumEpisode": 8,
+            "active": true
+        }
+    ]
+}

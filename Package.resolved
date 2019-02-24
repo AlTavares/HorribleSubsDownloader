@@ -1,0 +1,61 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Futures",
+        "repositoryURL": "https://github.com/formbound/Futures.git",
+        "state": {
+          "branch": null,
+          "revision": "1c3839ea503349898de6a2d1d6c05a5242c24ad5",
+          "version": "1.3.0"
+        }
+      },
+      {
+        "package": "Kanna",
+        "repositoryURL": "https://github.com/tid-kijyun/Kanna.git",
+        "state": {
+          "branch": null,
+          "revision": "0534d5d4917410870fcac8907e06f69b58a23417",
+          "version": "4.0.3"
+        }
+      },
+      {
+        "package": "Nappa",
+        "repositoryURL": "https://github.com/AlTavares/Nappa.git",
+        "state": {
+          "branch": null,
+          "revision": "dfbef1ea145189fa4257d39df6b521478ce58032",
+          "version": "3.0.0"
+        }
+      },
+      {
+        "package": "Regex",
+        "repositoryURL": "https://github.com/crossroadlabs/Regex.git",
+        "state": {
+          "branch": null,
+          "revision": "f144250678e4c13f1d820ffa265a8326b25bcd86",
+          "version": "1.1.0"
+        }
+      },
+      {
+        "package": "Result",
+        "repositoryURL": "https://github.com/antitypical/Result.git",
+        "state": {
+          "branch": null,
+          "revision": "2ca499ba456795616fbc471561ff1d963e6ae160",
+          "version": "4.1.0"
+        }
+      },
+      {
+        "package": "SwiftyBeaver",
+        "repositoryURL": "https://github.com/SwiftyBeaver/SwiftyBeaver.git",
+        "state": {
+          "branch": null,
+          "revision": "78352a16ed33e53307795b46145a1c739e08fb83",
+          "version": "1.6.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
