@@ -50,8 +50,9 @@ class ShowService {
     }
 
     func saveAddedEpisodes(for show: Show, episodes: [Episode]) {
-        let contents = episodes.map { $0.number }.sorted()
-        fileService.writeJSONFile(at: path(for: show), contents: contents)
+        var contents = getDownloadedEpisodes(for: show)
+        contents.append(contentsOf: episodes.map { $0.number })
+        fileService.writeJSONFile(at: path(for: show), contents: Set(contents).sorted())
     }
 
     private func path(for show: Show) -> String {
